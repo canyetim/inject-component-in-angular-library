@@ -1,6 +1,10 @@
 # Example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+Amaç: provider olarak verilen bir componentin, SharedModule.withComponent(component) şeklinde dışardan component alarak, kütüphane içinde defaultta varolan 
+bir componentte inject olarak katılması ve render edilmesinin yöntemi gösterilmiştir.
+
+canyetim@gmail.com
+
 
 ## Development server
 
